@@ -11,7 +11,7 @@ $ docker-compose up
 $ docker-compose exec web rake db:create
 ```
 
-You can see Rails top page on http://localhost:3000/.
+You can see Rails top page on http://localhost:3002/.
 
 
 ## pry
